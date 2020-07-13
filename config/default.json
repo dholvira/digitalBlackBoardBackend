@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb://localhost:27017/DigitalBlackBoard",
+  "jwtSecret": "YoloGameIsOn",
+  "image_directory": "uploads/",
+  "image_web_path": "http://127.0.0.1/uploads/",
+  "profile_directory": "uploads/"
+}
